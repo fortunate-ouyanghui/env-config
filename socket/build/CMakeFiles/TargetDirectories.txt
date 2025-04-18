@@ -1,0 +1,4 @@
+/home/oyh/study/tcp/build/CMakeFiles/cli.dir
+/home/oyh/study/tcp/build/CMakeFiles/srv.dir
+/home/oyh/study/tcp/build/CMakeFiles/edit_cache.dir
+/home/oyh/study/tcp/build/CMakeFiles/rebuild_cache.dir

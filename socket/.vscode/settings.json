@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "executor": "cpp",
+        "socket": "cpp",
+        "functional": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "utility": "cpp"
+    }
+}

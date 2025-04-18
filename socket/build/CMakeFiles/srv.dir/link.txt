@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/srv.dir/src/server.cpp.o -o /home/oyh/study/tcp/bin/srv 
